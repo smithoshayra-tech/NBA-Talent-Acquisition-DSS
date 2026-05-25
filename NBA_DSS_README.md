@@ -14,7 +14,17 @@ We built a DSS that answers that question across 434 players using seven KPIs, t
 
 ---
 
+## Video Presentation
+
+Watch the full project walkthrough and presentation here:
+**[NBA Talent Acquisition DSS — Full Presentation](https://youtu.be/jS0JjGVnjlk)**
+
+---
+
 ## The Two Dashboards
+
+![Acquisition Candidates Dashboard](dashboard_acquisition.png)
+![Team Scout Report Dashboard](dashboard_team_scout.png)
 
 ### Team Scout Report
 Select any of the 30 NBA teams. The dashboard shows:
